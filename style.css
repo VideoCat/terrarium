@@ -16,3 +16,25 @@ h1 {
 	color: #3a241d;
 	text-align: center;
 }
+
+
+
+#right-container {
+	background-color: rgb(167, 64, 64);
+	width: 40%;
+	right: 0px;
+	top: 0px;
+	position: absolute;
+	height: 300%;
+	padding: 10px;
+}
+
+#left-container {
+	background-color: rgb(97, 47, 177);
+	width: 40%;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	height: 300%;
+	padding: 10px;
+}
