@@ -6,7 +6,7 @@ microsoft/Web-Dev-For-Beginners
 
 Started with index.html, added style.css, and finally added script.js
 
-This was cloned from the follwoing an dwill will be making changes:
+This was cloned from the follwoing and I will be making changes:
 
 
 
